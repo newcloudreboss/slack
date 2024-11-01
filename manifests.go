@@ -1,6 +1,6 @@
-package slack
 
-import (
+
+ (
 	"context"
 	"encoding/json"
 	"net/url"
